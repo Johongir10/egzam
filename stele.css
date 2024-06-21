@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.ota {
+    background-color: #014E56;  
+    padding: 30px 0;
+}
+.ota .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ota ul {
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    list-style: none;
+}
+
+.btn {
+    background-color: #025e68;
+    padding: 10px 20px;
+    border: 1px solid white;
+    color:white;
+    border-radius: 20px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+.aa{
+    background-color: #025e68;
+    padding: 100px 0;
+}
+.aa .container{
+    display: flex;
+    gap: 50px;
+
+}
+h1{
+color: white;
+width: 350px;
+height: 100px;
+top: 241px;
+left: 165px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.pi{
+    align-items: center;
+    width: 730px;
+    height: 112px;
+    top: 44px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.ota1{
+    width: 1440px;
+    height: 1002px;
+    top: 517px;
+    gap: 0px;
+    opacity: 0px;
+background-color: #014E56;   
+align-items: center; 
+display: flex;
+}
+.container h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    
+}
+.keno{
+    width: 350px;
+height: 274.73px;
+gap: 0px;
+opacity: 0px;
+background-color: #014148;
+align-items: center;
+padding: 30px;
+margin: 30px;
+}
+.box{
+    display: flex;
+    align-items: center;
+}
+.box img{
+    align-items: center;
+}
+h4{
+    color: white;
+    align-items: center;
+ 
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+text-align: center;
+
+}
+.ota2{
+    width: 1440px;
+height: 355.66px;
+top: 1163px;
+gap: 30pxpx;
+opacity: 0px;
+background-color: #014148;
+}
+.ota2 h1{
+    width: 920px;
+height: 39.07px;
+top: 1276.94px;
+left: 260px;
+align-items:center;
+display: flex;
+padding: 70px;
+gap: 50px;
+}
+.ota2 img{
+gap: 50p;
+justify-content: 20px;
+}
+.ota3{
+    width: 1440px;
+    height: 200px;
+    top: 1519px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #F67E7E;
+    display: flex;
+}
+.ota3 h1{
+   
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    color: black;
+    padding: 40px;
+    gap: 30px;
+}
+.ota3 btn{
+    width: 153px;
+    height: 48px;
+  
+    
+}
+
+
+
+
+
+
+
+
